@@ -1,2 +1,46 @@
 # R-Programming
-Basics of R programming
+Every time you write something in the R script, you have to `source('')` that file into the console. Otherwise the changes in the script will not get into action.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
