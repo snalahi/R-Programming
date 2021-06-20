@@ -13,6 +13,12 @@ Vector is created using `c()` function.
 
 The default seperator for read.csv is comma(,) and the default seperator for read.table is space( )
 
+In mathematics, the lexicographic or lexicographical order is a generalization of the alphabetical order of the dictionaries to sequences of ordered symbols or, more generally, of elements of a totally ordered set.
+
+When you specifiy drop = false, then you will get an output in the format of a matrix.
+
+[[ ]] => double bracket initiation in R is a list.
+
 
 
 
